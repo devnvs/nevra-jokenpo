@@ -20,7 +20,7 @@ The project focuses on:
 - Smooth animations
 - Lightweight front-end architecture
 
-Built as part of the **NEVRA SYSTEMS** ecosystem, this application demonstrates practical JavaScript implementation combined with immersive UI/UX concepts. Traditional Jokenpo mechanics are widely used in web development studies and interactive JavaScript practice projects. :contentReference[oaicite:0]{index=0}
+Built as part of the **NEVRA SYSTEMS** ecosystem, this application demonstrates practical JavaScript implementation combined with immersive UI/UX concepts. Traditional Jokenpo mechanics are widely used in web development studies and interactive JavaScript practice projects.
 
 ---
 
@@ -101,7 +101,8 @@ Open the `index.html` file in your browser.
 
 ## 📸 Preview
 
-> Add an official gameplay screenshot here in the future.
+<img width="1132" height="888" alt="JOKENPO" src="https://github.com/user-attachments/assets/6f604fae-71d6-4c55-8202-02df43013f90" />
+
 
 ---
 
