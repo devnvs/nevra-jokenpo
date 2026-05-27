@@ -4,7 +4,7 @@
 
 ## 🌐 Live Preview
 
-🔗 https://devnvs.github.io/jokenpo/
+🔗 https://devnvs.github.io/nevra-jokenpo/
 
 ---
 
